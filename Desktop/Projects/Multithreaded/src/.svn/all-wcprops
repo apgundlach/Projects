@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/aprivera/!svn/ver/221/cs212/project3/src
+END
+WorkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aprivera/!svn/ver/230/cs212/project3/src/WorkQueue.java
+END
+SearchResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/aprivera/!svn/ver/230/cs212/project3/src/SearchResults.java
+END
+InvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/aprivera/!svn/ver/258/cs212/project3/src/InvertedIndex.java
+END
+QuerySearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/aprivera/!svn/ver/259/cs212/project3/src/QuerySearcher.java
+END
+ArgumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/aprivera/!svn/ver/230/cs212/project3/src/ArgumentParser.java
+END
+TextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/aprivera/!svn/ver/255/cs212/project3/src/TextParser.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/aprivera/!svn/ver/255/cs212/project3/src/Driver.java
+END
+MultiReaderLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/aprivera/!svn/ver/240/cs212/project3/src/MultiReaderLock.java
+END
